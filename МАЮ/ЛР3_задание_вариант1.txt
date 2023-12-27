@@ -1,0 +1,31 @@
+mickh@LAPTOP-JO42VCJB MINGW64 ~/Desktop/5 семестр/бутин/гит/10.03.01/МАЮ (main)
+$ git log --author=mickhch --since=1.month
+commit 43f215e3163935cafec04dcca66dadf9186e1b5f (HEAD -> main, origin/main, origin/HEAD)
+Author: mickhch <mickhich3591@gmail.com>
+Date:   Thu Dec 28 00:51:26 2023 +0300
+
+    удалил файл my_second_file
+
+commit 43e3a261f932594de93d771663715c05486c8937
+Author: mickhch <mickhich3591@gmail.com>
+Date:   Thu Dec 28 00:37:30 2023 +0300
+
+    переименовал файл my_second_file.txt в  my_first_file.txt
+
+commit 35074c80bac3ce080f776825d750d2d291eb379d
+Author: mickhch <mickhich3591@gmail.com>
+Date:   Thu Dec 28 00:31:24 2023 +0300
+
+    создание файла .gitignore
+
+commit e1c0ed3cbd2528a2f3ea0c2a5540a63b7ccbda8d
+Author: mickhch <mickhich3591@gmail.com>
+Date:   Thu Dec 28 00:20:22 2023 +0300
+
+    создал my_second_file
+
+commit 421ccd34f097bae5d2429e530002a000d49a4c63
+Author: mickhch <mickhich3591@gmail.com>
+Date:   Thu Dec 28 00:19:06 2023 +0300
+
+    создал my_first_file
